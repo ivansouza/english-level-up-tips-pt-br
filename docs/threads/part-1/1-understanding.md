@@ -48,7 +48,17 @@ O pesquisador americano Edgar Dale propôs em 1969 a famosa "Pirâmide de Aprend
 - Participando de discussões, perguntando, falando: cerca de 70%
 - Fazendo apresentações, ensinando, simulando, praticando: cerca de 90%
 
-![ConeofLearning-old.png](../../assets/ConeofLearning-old.png)
+> **Pirâmide de Aprendizagem (Cone of Learning):**
+>
+> | Método de Ensino | Taxa de Retenção |
+> |---|---|
+> | Aula expositiva (palestra) | 5% |
+> | Leitura | 10% |
+> | Audiovisual | 20% |
+> | Demonstração | 30% |
+> | Discussão em grupo | 50% |
+> | Praticar fazendo | 75% |
+> | Ensinar outros / Uso imediato | 90% |
 
 Essa teoria é controversa no meio acadêmico — os números não são precisos — mas a **direção geral** está correta:
 

@@ -9,11 +9,17 @@ Pular a etapa do vocabulário para tentar aprender mais rápido vai fazer você 
 
 Primeiro, vamos ver a distribuição das palavras em inglês:
 
-![OCE Artboard@2x.png](../../assets/OCE%20Artboard@2x.png)
+> **Distribuição do vocabulário inglês (Oxford English Corpus):**
+>
+> | Nível | Nº de Palavras | Cobertura do Texto |
+> |---|---|---|
+> | Básico | 1.000 | ~75% |
+> | Intermediário | 2.000 | ~80% |
+> | Intermediário+ | 3.000 | ~84% |
+> | Avançado | 7.000 | ~90% |
+> | Fluente | 15.000+ | ~95%+ |
 
-> Imagem original do Oxford English Corpus (OEC). Recriei no Sketch — o arquivo .sketch está na pasta assets do repositório.
-
-As informações principais deste gráfico:
+As informações principais desta tabela:
 
 - Com 1.000 palavras, você entende cerca de 75% do conteúdo em inglês.
 - 7.000 palavras é um marco crucial (só 7 mil palavras para entender quase 90% do conteúdo — animador, não?).
