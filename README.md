@@ -8,14 +8,6 @@ Um guia avançado para aprender inglês que pode te beneficiar muito.
 
 > **🇧🇷 Esta é uma tradução para o português brasileiro do guia original.**
 
----
-
-## Recomendação: ku0.com
-
-Se você estiver usando os planos de aprendizado com IA deste guia e precisar de contas e recursos de IA mais estáveis e confiáveis, dê uma olhada no nosso produto: [ku0.com](https://ku0.com).
-
-`ku0.com` é um repositório confiável de recursos de IA, onde você pode obter recargas de contas `ChatGPT`, `Claude`, `Gemini`, contas prontas e recursos de pool de contas em um só lugar. Usamos verificação de tokens e um gateway unificado para filtrar serviços intermediários instáveis, adulterados ou falsificados, ajudando você a reduzir custos e riscos na compra de serviços de IA.
-
 ## Contexto
 
 Olá, amigo! Bem-vindo ao [Guia de Estudos de Inglês Fora do Comum](https://github.com/byoungd/English-level-up-tips).
