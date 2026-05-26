@@ -91,7 +91,7 @@ No ensino médio, a pressão era enorme — não só de fora, mas também das ex
 
 Como eu passava as noites estudando, durante o dia ficava sem energia e rendia mal nas aulas. E à noite não conseguia dormir porque ficava preocupado em não descansar o suficiente. Quanto mais ansioso, menos dormia.
 
-A coordenadora me culpava pela queda nas notas, perguntando se eu estava namorando ou viciado em jogos. Me chamava na sala dela para "conversar" (na prática, para me esculachar).
+A coordenadora me culpava pela queda nas notas, perguntando se eu estava viciado em jogos. Me chamava na sala dela para "conversar" (na prática, para me esculachar).
 
 O diretor de turma só se importava se eu tinha chegado atrasado de novo — mais uma presa para ele.
 
@@ -162,4 +162,4 @@ E esforço é o melhor talento!
 
 ---
 
-Próximo: [Eu e Minhas Ex-namoradas](https://github.com/byoungd/how-to-find-love)
+

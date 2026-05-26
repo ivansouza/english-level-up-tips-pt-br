@@ -18,7 +18,6 @@
 
 ### Parte IV
 
-* [Minha História](threads/part-2/my-story.md)
 * [Semana 1](threads/part-4/week-1.md)
 
 ### Listas de Vocabulário

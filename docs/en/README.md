@@ -64,8 +64,6 @@ The AI chapter now reflects the current tool landscape instead of only generic p
 
 [![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
 
-[My Story](threads/part-4/my-story.md)
-
 ## Word Lists
 
 These lists are already in English, so the English sidebar links directly to them:
@@ -80,10 +78,6 @@ These lists are already in English, so the English sidebar links directly to the
 - [Swift](#/threads/word-list/Swift.md)
 - [Rust](#/threads/word-list/Rust.md)
 - [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
-## Personal Story
-
-If you want the personal background behind this guide, read [My Story](threads/part-4/my-story.md).
-
 ## Reprint
 
 If you repost this guide, please credit the author and include the GitHub link. Thank you!

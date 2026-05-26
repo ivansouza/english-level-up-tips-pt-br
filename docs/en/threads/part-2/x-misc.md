@@ -179,7 +179,7 @@ And the best talent is… effort.
 > About the times I got beaten by teachers: I take responsibility too. I didn’t respect their dignity and acted like a jerk.  
 > This chapter is mostly nonsense—just for a laugh.
 
-Next: [My ex-girlfriends](https://github.com/byoungd/how-to-find-love)
+
 
 ---
 

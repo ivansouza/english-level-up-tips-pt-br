@@ -47,8 +47,6 @@ Se você quer transformar a IA em um verdadeiro acelerador do seu aprendizado de
 
 [![Others](docs/assets/Others-en@2x.svg)](docs/threads/part-2/x-misc.md)
 
-[Minha História](docs/threads/part-2/my-story.md)
-
 ## Agradecimentos
 
 - Obrigado a todos que se importam e contribuíram para este guia ❤️
