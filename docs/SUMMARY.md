@@ -16,10 +16,6 @@
 
 * [8. Miscelânea](threads/part-2/x-misc.md)
 
-### Parte IV
-
-* [Semana 1](threads/part-4/week-1.md)
-
 ### Listas de Vocabulário
 
 * [Common](threads/word-list/Common.md)
