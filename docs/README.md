@@ -43,7 +43,7 @@ O capítulo sobre IA foi atualizado para a versão `2026`. O foco não está mai
 
 Se você quer transformar a IA em um verdadeiro acelerador do seu aprendizado de inglês — e não apenas usá-la para traduzir uma frase ou outra — vale a pena ler este capítulo com atenção.
 
-[![word-list](docs/assets/word-list@2x.svg)](docs/threads/word-list/Common.md)
+[![word-list](docs/assets/word-list-en@2x.svg)](docs/threads/word-list/Common.md)
 
 [![Others](docs/assets/Others-en@2x.svg)](docs/threads/part-2/x-misc.md)
 
