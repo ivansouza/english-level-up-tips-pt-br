@@ -1,9 +1,5 @@
 <!-- English version -->
 
-Dedicated to my once-beloved `W.`
-
-> We each live in our own past. It takes one minute to get to know someone, one hour to like them, one day to fall in love with them—yet it can take a lifetime to forget them.
-
 English | [中文](#/)
 
 # Project
@@ -11,23 +7,6 @@ English | [中文](#/)
 An advanced guide to learn English which might benefit you a lot.
 
 This English version is a work in progress. You can always switch back to the complete Chinese version from the nav above.
-
-## Background
-
-Hi, my friend—welcome.
-
-Back in early July 2017, `W.` (who was preparing for TOEFL) asked me a question:
-
-**How can I learn English efficiently?**
-
-While thinking about an answer, I recalled a semester when I passed 26 courses at once (19 of them were retakes), plus the fact that I once got lucky and ranked No.1 in my province in both `English` and `Chinese` in the college entrance exam (Jiangsu). Maybe I was barely qualified to share a few practical tips.
-
-After talking with her, I realized two things:
-
-- Some people are incredibly passionate about learning.
-- Many of us also suffer from ineffective methods, anxiety, and guilt around learning.
-
-This guide is my attempt to organize what I’ve learned and share it with more people.
 
 ## English Proficiency Levels
 
@@ -37,7 +16,17 @@ This guide is my attempt to organize what I’ve learned and share it with more 
 
 ## Features
 
-![Features](../assets/feature-en.svg)
+**Structured** — Build a knowledge framework first. Structure first, details later.
+
+**Phased** — Divide learning into stages and modules. Step by step.
+
+**Targeted** — Focus on your needs and available time. Make use of free moments.
+
+**Practical** — Practice real outcomes: resumes, emails, writing, notes, blogs.
+
+**Actionable** — Curated materials and examples. Easy to follow.
+
+**Low cost** — Mostly free or low-cost resources. Learn efficiently spending less.
 
 ## Chapters (English, WIP)
 
@@ -57,7 +46,7 @@ This guide is my attempt to organize what I’ve learned and share it with more 
 
 The AI chapter now reflects the current tool landscape instead of only generic prompt tips. It focuses on:
 
-- why Gemini is now the most complete “learning workflow” option for many learners
+- why Gemini is now the most complete "learning workflow" option for many learners
 - how to combine `Gems / Live / Guided Learning / Canvas / quizzes / flashcards`
 - when to use `ChatGPT`, `Claude`, `Perplexity`, or `DeepL Write` instead
 - how to build repeatable practice loops rather than asking AI for one-off answers
@@ -78,8 +67,4 @@ These lists are already in English, so the English sidebar links directly to the
 - [Swift](#/threads/word-list/Swift.md)
 - [Rust](#/threads/word-list/Rust.md)
 - [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
-## Reprint
 
-## Note
-
-This guide does not accept donations or sponsorship.
