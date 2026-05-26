@@ -183,7 +183,7 @@ Onde quer que você encontre uma palavra nova, coloque-a num caderno sincronizad
 
 Não vou fazer propaganda de qual aplicativo uso — qualquer um com sincronização entre dispositivos serve. Veja um print:
 
-![Print do caderno de vocabulário](../../assets/word-list-app.png)
+> *Print de tela de um aplicativo de vocabulário mostrando a lista de palavras com data de inclusão, traduções em chinês, e estatísticas como "984 palavras no total, 5 no plano de revisão". O app exibe palavras como: fertile, scepticism, intimate, cohesive, feminine, bail, refrigeration, psychology, entre outras.*
 
 Dá para ver que, mesmo depois de 7 anos revisando, algumas palavras ainda não tenho certeza se memorizei completamente.
 
