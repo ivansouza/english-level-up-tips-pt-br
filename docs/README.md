@@ -16,7 +16,17 @@ Um guia avançado para aprender inglês que pode te beneficiar muito.
 
 ## Diferenciais
 
-![Diferenciais](docs/assets/feature-en.svg)
+**Estruturado** — Monte primeiro um framework de conhecimento. Estrutura primeiro, depois os detalhes.
+
+**Em fases** — Divida o aprendizado em etapas e módulos. Passo a passo.
+
+**Direcionado** — Foco nas suas necessidades e tempo disponível. Aproveite os momentos livres.
+
+**Prático** — Pratique resultados reais: currículos, e-mails, escrita, anotações, blogs.
+
+**Acionável** — Materiais curados e exemplos. Fácil de seguir.
+
+**Baixo custo** — Recursos majoritariamente gratuitos ou de baixo custo. Aprenda eficientemente gastando menos.
 
 ## Capítulos
 
