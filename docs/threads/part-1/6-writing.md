@@ -6,11 +6,14 @@ Olá, bem-vindo ao Guia de Estudos de Inglês Fora do Comum. Este é um projeto 
 
 Na verdade, eu ia abandonar esta série. Achava que não tinha credibilidade para falar sobre escrita. Até que recentemente [compartilhei um artigo sobre meu fracasso empreendedor](https://zhuanlan.zhihu.com/p/653380203) que teve uma repercussão enorme. Recebi muitas mensagens poderosas e encorajadoras — isso me emocionou e me motivou a completar este capítulo que estava faltando.
 
-![Feedback](../../assets/nice-comment.png)
+> **Comentário de um leitor:**
+> "Muito obrigado pelo seu tutorial de inglês! Ele me ajudou muito no vestibular. Obrigado também por responder tão rápido ao issue que abri. Admiro sua atitude positiva mesmo diante das dificuldades que você compartilhou no V2EX. Continue assim!"
+>
+> — Resposta do autor: "Fico feliz em saber que o tutorial foi útil. Saber que impactou positivamente um jovem como você me enche de gratidão."
 
 Escrever é tanto uma habilidade quanto uma arte. Ajuda a expressar pensamentos e emoções, disseminar conhecimento e sabedoria, e também permite sentir criação e realização, contribuindo com valor e significado. Escrever bem não se faz da noite para o dia. Observando os artigos e vídeos mais populares por aí, este capítulo não discute literatura acadêmica — foca no público geral. Acho que alguns elementos merecem discussão.
 
-![Referência do YouTube](../../assets/writing-skills.png)
+> *Print de tela do YouTube mostrando resultados de busca por "improve writing skills", com diversos vídeos sobre técnicas de escrita em inglês.*
 
 ## Leitura
 
@@ -31,8 +34,14 @@ Usar IA para reescrever textos é um fenômeno novo e interessante. Mostra o pod
 Ferramentas como essa podem ajudar a identificar problemas. Peça sugestões de melhoria e use como referência.
 
 > Este artigo, por exemplo, pediu sugestões de revisão para a IA.
-![New Bing](../../assets/chatgpt.png)
-![AIGC](../../assets/aigc.png)
+
+A IA analisou o texto e deu sugestões parágrafo por parágrafo, comparando o original com a versão revisada e explicando as melhorias: mais conciso, mais fluido, mais elegante, mais profissional, mais preciso, com maior impacto emocional, mais coloquial e acolhedor — cobrindo desde precisão de vocabulário até tom e engajamento.
+
+**Vantagens de usar IA para revisão:** economia de tempo e esforço, melhora na qualidade e clareza do texto, aumento da diversidade de expressão, e expansão de conteúdo e perspectivas.
+
+**Desvantagens:** perda de originalidade e autenticidade, risco de erros de lógica ou gramática, questões éticas (plágio), e dependência excessiva que limita o desenvolvimento da própria escrita.
+
+> Conclusão da IA: use a ferramenta com sabedoria e responsabilidade, respeitando autores e leitores.
 
 ## Inovação
 
