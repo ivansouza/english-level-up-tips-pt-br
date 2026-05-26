@@ -13,9 +13,6 @@
 * [Writing](threads/part-1/6-writing.md)
 * [AI](threads/part-1/7-ai.md)
 
-### Part II
-
-* [Misc](threads/part-2/x-misc.md)
 
 ### Word Lists
 

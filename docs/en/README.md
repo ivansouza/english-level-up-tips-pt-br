@@ -49,8 +49,6 @@ If you want to turn AI into a true accelerator for your English learning — and
 
 [![word-list](../assets/word-list-en@2x.svg)](threads/word-list/Common.md)
 
-[![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
-
 ---
 
 <small>This guide is based on the original guide by [byoungd](https://github.com/byoungd) — [English-level-up-tips](https://github.com/byoungd/English-level-up-tips).</small>

@@ -49,8 +49,6 @@ Se você quer transformar a IA em um verdadeiro acelerador do seu aprendizado de
 
 [![word-list](docs/assets/word-list-en@2x.svg)](docs/threads/word-list/Common.md)
 
-[![Others](docs/assets/Others-en@2x.svg)](docs/threads/part-2/x-misc.md)
-
 ---
 
 <small>Este guia é baseado no guia original de [byoungd](https://github.com/byoungd) — [English-level-up-tips](https://github.com/byoungd/English-level-up-tips).</small>

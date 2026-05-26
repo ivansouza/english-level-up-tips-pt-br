@@ -440,5 +440,4 @@ But if you use it well, it can become a low-friction, high-frequency training pa
 
 ---
 
-Prev: [Writing](6-writing.md)  
-Next: [Misc](../part-2/x-misc.md)
+Prev: [Writing](6-writing.md)

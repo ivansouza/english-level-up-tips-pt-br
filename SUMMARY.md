@@ -8,7 +8,4 @@
 * [4. Leitura](docs/threads/part-1/4-reading.md)
 * [5. Speaking](docs/threads/part-1/5-speaking.md)
 
-### Parte II
-
-* [8. Miscelânea](docs/threads/part-2/x-misc.md)
 

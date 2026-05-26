@@ -12,9 +12,6 @@
 * [6. Escrita](threads/part-1/6-writing.md)
 * [7. Usando IA para Aprender (versão 2026)](threads/part-1/7-ai.md)
 
-### Parte II
-
-* [8. Miscelânea](threads/part-2/x-misc.md)
 
 ### Listas de Vocabulário
 
