@@ -124,9 +124,7 @@
                 ? repo + "/blob/master/docs/" + vm.route.file
                 : "https://github.com/byoungd/English-level-up-tips/blob/master/docs/" +
                   vm.route.file;
-              let editHtml = "[:memo: EDIT DOCUMENT](" + url + ")\n";
               return (
-                editHtml +
                 html.replace(
                   /<a\s+(?:[^>]*?\s+)?href\s*=\s*(["'])#(.*?)\1.*?>/g,
                   (m, g1, g2) => m.replace(g2, vm.route.path + "#" + g2)

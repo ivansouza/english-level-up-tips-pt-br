@@ -1,8 +1,6 @@
 [`Português (BR)`](docs/README.md) | [`English`](docs/en/README.md)
 
-# Sobre o Projeto
-
-Um guia avançado para aprender inglês que pode te beneficiar muito.
+# Um guia avançado para aprender inglês que pode te beneficiar muito.
 
 ## Níveis de Proficiência em Inglês
 
