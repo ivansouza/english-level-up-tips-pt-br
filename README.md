@@ -8,34 +8,6 @@ Um guia avançado para aprender inglês que pode te beneficiar muito.
 
 > **🇧🇷 Esta é uma tradução para o português brasileiro do guia original.**
 
-## Contexto
-
-Olá, amigo! Bem-vindo ao [Guia de Estudos de Inglês Fora do Comum](https://github.com/byoungd/English-level-up-tips).
-
-Quando seus olhos encontrarem estas palavras, espero de coração que esta não seja apenas uma jornada árdua para dominar o inglês, mas uma aventura maravilhosa que abrirá as portas do conhecimento. Que estas palavras se tornem as cordas que fazem vibrar nossas almas em sintonia, tocando a melodia celestial do aprendizado de idiomas.
-
-Tudo começou no início de julho de 2017, quando a musa `W.`, que estava se preparando para o TOEFL, me fez uma pergunta: **Como aprender inglês de forma eficiente?**
-
-Enquanto pensava em como responder, lembrei da minha experiência na faculdade, quando passei em 26 disciplinas em um único semestre (19 delas em recuperação, mais 7 do semestre atual). Somado ao fato de que tirei o primeiro lugar estadual em `Inglês` e `Chinês` no vestibular (província de Jiangsu), talvez eu tenha algum direito de compartilhar algumas `dicas de aprendizado eficiente`.
-
-Depois de trocar ideias sobre métodos de estudo, fiquei impressionado com o entusiasmo dela pelos estudos, mas também percebi que seus métodos tinham alguns `pontos questionáveis`.
-
-Então escrevi um artigo simples compartilhando minhas experiências de aprendizado de inglês. Dias depois, ela me pediu para organizar melhor essas experiências e compartilhá-las com mais pessoas que precisassem.
-
-Antes disso, eu não fazia ideia de que tantas pessoas enfrentavam dificuldades para aprender inglês.
-
-Muitos nunca pararam para pensar: **O inglês, como língua, deveria ser algo natural de se aprender — assim como aprendemos nosso idioma nativo.**
-
-Espero sinceramente que você possa **amar** aprender inglês. Se não conseguir, tente descobrir a diversão ou os benefícios que isso pode trazer. Permita-me citar Steve Jobs (ele estava falando sobre trabalho, mas a mensagem é similar):
-
-> The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-
-> > > A única maneira de fazer um trabalho brilhante é amar o que você faz. Se você ainda não encontrou, continue procurando. Não se contente. Como em todas as questões do coração, você saberá quando encontrar.
-
-**O amor pelo aprendizado** funciona da mesma forma.
-
-Neste guia, vou combinar ao máximo minha visão subjetiva com fundamentos científicos para oferecer a você um guia completo de aprimoramento do inglês. **Espero sinceramente que este guia possa te ajudar, nem que seja um pouquinho.**
-
 ## Níveis de Proficiência em Inglês
 
 ![CEFR@2x.png](docs/assets/CEFR@2x.png)
