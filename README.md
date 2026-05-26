@@ -61,17 +61,3 @@ Ao reproduzir este guia, por favor, mencione o autor e o link do GitHub. Obrigad
 Este trabalho está licenciado sob a Licença Creative Commons Atribuição-Uso Não Comercial 4.0 Internacional.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
-
-## Aviso Especial
-
-Muitos amigos entraram em contato dizendo que o guia foi feito com muito carinho e que os ajudou de alguma forma, querendo fazer uma doação.
-
-**O destino já deu a este guia mais presentes do que ele merece — não preciso de mais recompensas.**
-
-Declaro oficialmente: **Este guia não aceita nem precisa de patrocínio financeiro.**
-
-Use o dinheiro que você gastaria com doações para comprar bons livros.
-
-> Aprender — não é essa a melhor diversão da vida?
-
-> Cheers and Enjoy :)
