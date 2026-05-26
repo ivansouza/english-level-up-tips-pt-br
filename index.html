@@ -62,18 +62,25 @@
         height: 75vh;
         width: 100%;
       }
-      /* Mobile: evitar que o botão do menu sobreponha o seletor de idioma */
+      /* Mobile: botão do menu não sobrepor conteúdo */
       @media (max-width: 768px) {
         .sidebar-toggle {
-          top: 8px;
-          left: 8px;
+          left: 4px;
+          top: 4px;
+          padding: 6px;
           z-index: 100;
+          background: rgba(0,0,0,0.5);
+          border-radius: 4px;
+        }
+        .sidebar-toggle .sidebar-toggle-button {
+          opacity: 0.7;
         }
         .content {
-          padding-top: 10px;
+          padding-top: 6px;
         }
-        .content p:first-child {
-          padding-left: 40px;
+        section.content p:first-of-type {
+          padding-left: 44px;
+          display: inline-block;
         }
       }
     </style>
