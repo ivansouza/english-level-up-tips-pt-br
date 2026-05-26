@@ -68,3 +68,7 @@ These lists are already in English, so the English sidebar links directly to the
 - [Rust](#/threads/word-list/Rust.md)
 - [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
 
+---
+
+<small>This guide is based on the original guide by [byoungd](https://github.com/byoungd) — [English-level-up-tips](https://github.com/byoungd/English-level-up-tips).</small>
+
