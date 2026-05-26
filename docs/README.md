@@ -32,7 +32,7 @@ Um guia avançado para aprender inglês que pode te beneficiar muito.
 
 [![writing](docs/assets/writing-en@2x.svg)](docs/threads/part-1/6-writing.md)
 
-[![ai](docs/assets/ai@2x.svg)](docs/threads/part-1/7-ai.md)
+[![ai](docs/assets/ai-en@2x.svg)](docs/threads/part-1/7-ai.md)
 
 O capítulo sobre IA foi atualizado para a versão `2026`. O foco não está mais apenas em prompts genéricos, mas em responder de forma mais sistemática:
 
