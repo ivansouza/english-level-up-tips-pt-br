@@ -245,15 +245,9 @@ To help with high-frequency vocabulary, this repo shares a "Macmillan 7,000" Ank
 - pictures
 - sentence translations
 
-Link: https://pan.baidu.com/s/1i5OLIIT
-Password: jm4k
-
-Because the deck is old, some mobile platforms have issues (see #76): https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76
-
-Updates include:
-
-- adjusted card styles for mobile (font size, layout, fields...)
-- download media locally via the [Localize Media](https://ankiweb.net/shared/info/1293255374) plugin
+> The original deck is available in the [original repository](https://github.com/byoungd/English-level-up-tips) (hosted on Baidu Pan, a Chinese cloud service).
+>
+> ⚠️ Since the deck is old and the link points to a Chinese service, **it's recommended to create your own deck** using AI (ChatGPT, Gemini) to generate personalized flashcards with the words you're learning.
 
 ---
 

@@ -214,12 +214,9 @@ Para ajudar na memorização de palavras de alta frequência, compartilho um bar
 - Com imagens
 - Com tradução das frases
 
-Link: https://pan.baidu.com/s/1i5OLIIT (senha: jm4k)
-
-Como o baralho é antigo, pode ter problemas em algumas plataformas móveis [#76](https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76). Atualização:
-
-- Ajustei o estilo, reduzi a fonte, reorganizei a ordem dos campos de resposta para adaptar a aplicativos móveis.
-- Usei o plugin [Localize Media](https://ankiweb.net/shared/info/1293255374) para baixar todas as imagens e recursos offline.
+> O baralho original está disponível no [repositório original do projeto](https://github.com/byoungd/English-level-up-tips) (link do Baidu Pan, serviço de armazenamento chinês).
+>
+> ⚠️ Como o baralho é antigo e o link leva a um serviço chinês, **recomenda-se criar seu próprio baralho** usando IA (ChatGPT, Gemini) para gerar flashcards personalizados com as palavras que você está aprendendo.
 
 ## Usando IA para Ajudar na Memorização (Atualização 2025)
 
