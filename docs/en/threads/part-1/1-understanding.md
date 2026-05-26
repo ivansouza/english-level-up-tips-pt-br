@@ -6,7 +6,7 @@ This chapter is about mindset. Before you grind vocabulary and drills, it’s wo
 
 ---
 
-## TL;DR
+## Summary
 
 - Get clear on **why you want English** and what you want it for.
 - **Input alone isn’t enough**. You need output: speaking, writing, using the language.

@@ -4,7 +4,7 @@ Este capítulo aborda, do ponto de vista cognitivo, algumas questões que você 
 
 ---
 
-## Resumo (TL;DR)
+## Resumo
 
 - Entenda: **por que você quer aprender inglês e o que realmente deseja** — defina seus objetivos.
 - Perceba que: **entrada passiva (ler e ouvir) não é suficiente** — você precisa de mais "ação, fala e produção".
