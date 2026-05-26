@@ -80,12 +80,6 @@ These lists are already in English, so the English sidebar links directly to the
 - [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
 ## Reprint
 
-If you repost this guide, please credit the author and include the GitHub link. Thank you!
-
-## License
-
-This work is licensed under CC BY-NC 4.0.
-
 ## Note
 
 This guide does not accept donations or sponsorship.

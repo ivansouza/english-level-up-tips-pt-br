@@ -58,10 +58,3 @@ Se você quer transformar a IA em um verdadeiro acelerador do seu aprendizado de
 - Obrigado a todos que se importam e contribuíram para este guia ❤️
 ## Direitos de Reprodução
 
-Ao reproduzir este guia, por favor, mencione o autor e o link do GitHub. Obrigado!
-
-## Licença
-
-Este trabalho está licenciado sob a Licença Creative Commons Atribuição-Uso Não Comercial 4.0 Internacional.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"></a>
