@@ -62,6 +62,20 @@
         height: 75vh;
         width: 100%;
       }
+      /* Mobile: evitar que o botão do menu sobreponha o seletor de idioma */
+      @media (max-width: 768px) {
+        .sidebar-toggle {
+          top: 8px;
+          left: 8px;
+          z-index: 100;
+        }
+        .content {
+          padding-top: 10px;
+        }
+        .content p:first-child {
+          padding-left: 40px;
+        }
+      }
     </style>
   </head>
   <body>
