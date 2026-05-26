@@ -10,7 +10,7 @@ Um guia avançado para aprender inglês que pode te beneficiar muito.
 
 ## Níveis de Proficiência em Inglês
 
-![CEFR@2x.png](docs/assets/CEFR@2x.png)
+![CEFR](docs/assets/CEFR-en@2x.svg)
 
 > Baseado principalmente na [Global scale - Table 1 (CEFR 3.3): Common Reference Levels](http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
 
