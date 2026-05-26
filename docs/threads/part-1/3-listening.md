@@ -227,4 +227,4 @@ Se quiser se aprofundar, recomendo assistir: [Understand Native English Speakers
 - [Julian Treasure: Como falar de modo que as pessoas queiram ouvir](https://www.youtube.com/watch?v=eIho2S0ZahI)
 - [Sia - Chandelier (Official Video)](https://www.youtube.com/watch?v=2vjPBrBU-TM)
 
-Próximo: [Leitura](4-reading.md)
+Próximo: [Leitura](#/docs/threads/part-1/4-reading)

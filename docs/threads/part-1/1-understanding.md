@@ -349,4 +349,4 @@ Vamos começar pela parte mais básica — e também a mais crucial: **vocabulá
 
 ---
 
-Próximo: [Vocabulário](2-vocabulary.md)
+Próximo: [Vocabulário](#/docs/threads/part-1/2-vocabulary)

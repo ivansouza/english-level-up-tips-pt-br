@@ -108,5 +108,5 @@ If you use tools to pre-extract unknown words from a document and learn them fir
 
 ---
 
-Prev: [Listening](3-listening.md)  
-Next: [Speaking](5-speaking.md)
+Prev: [Listening](#/docs/en/threads/part-1/3-listening)  
+Next: [Speaking](#/docs/en/threads/part-1/5-speaking)

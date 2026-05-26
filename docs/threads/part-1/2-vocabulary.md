@@ -254,4 +254,4 @@ Você pode integrar a IA assim:
 
 > Ao memorizar palavras, na maioria das vezes não precisa se forçar. Só dê uma olhada. Palavras novas — **novas** — com o tempo, naturalmente se tornam familiares.
 
-Próximo: [Listening](3-listening.md)
+Próximo: [Listening](#/docs/threads/part-1/3-listening)

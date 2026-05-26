@@ -87,4 +87,4 @@ Se você usar ferramentas para extrair palavras desconhecidas de um documento co
 
 [![Manual de Referência para Leitura em Inglês](https://img3.doubanio.com/lpic/s4241556.jpg)](https://book.douban.com/subject/4720475/)
 
-Próximo: [Speaking](5-speaking.md)
+Próximo: [Speaking](#/docs/threads/part-1/5-speaking)

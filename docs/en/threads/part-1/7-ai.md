@@ -440,4 +440,4 @@ But if you use it well, it can become a low-friction, high-frequency training pa
 
 ---
 
-Prev: [Writing](6-writing.md)
+Prev: [Writing](#/docs/en/threads/part-1/6-writing)

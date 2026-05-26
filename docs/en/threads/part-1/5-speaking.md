@@ -165,5 +165,5 @@ Less is more. Pick a few and practice a lot. If you have great channels to recom
 
 ---
 
-Prev: [Reading](4-reading.md)  
-Next: [Writing](6-writing.md)
+Prev: [Reading](#/docs/en/threads/part-1/4-reading)  
+Next: [Writing](#/docs/en/threads/part-1/6-writing)

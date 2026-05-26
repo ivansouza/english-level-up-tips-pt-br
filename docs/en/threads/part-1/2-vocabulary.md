@@ -292,5 +292,5 @@ If you already have a decent vocabulary base, don't miss it.
 
 ---
 
-Prev: [Understanding](1-understanding.md)
-Next: [Listening](3-listening.md)
+Prev: [Understanding](#/docs/en/threads/part-1/1-understanding)
+Next: [Listening](#/docs/en/threads/part-1/3-listening)
