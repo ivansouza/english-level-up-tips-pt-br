@@ -4,10 +4,6 @@
 
 Um guia avançado para aprender inglês que pode te beneficiar muito.
 
-[English Level Up Tips — Um Guia de Estudos de Inglês Fora do Comum](https://github.com/byoungd/English-level-up-tips).
-
-> **🇧🇷 Esta é uma tradução para o português brasileiro do guia original.**
-
 ## Níveis de Proficiência em Inglês
 
 ![CEFR](docs/assets/CEFR-en@2x.svg)
