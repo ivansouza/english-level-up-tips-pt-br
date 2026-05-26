@@ -17,11 +17,6 @@
 
 * [Misc](threads/part-2/x-misc.md)
 
-### Part IV
-
-* [My Story](threads/part-4/my-story.md)
-* [Week 1](threads/part-4/week-1.md)
-
 ### Word Lists
 
 * [Common](#/threads/word-list/Common.md)
