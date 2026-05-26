@@ -20,7 +20,7 @@ Este capítulo aborda, do ponto de vista cognitivo, algumas questões que você 
 
 Primeiro, precisamos entender que **o inglês é um idioma extremamente utilizado**. Isso pode ser visto na distribuição de idiomas no conteúdo da Wikipédia:
 
-![Distribuição de idiomas em sites](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
+![Distribuição de idiomas em sites](https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg)
 
 O inglês, como o idioma mais falado no mundo, cobre praticamente todos os aspectos da vida.
 
