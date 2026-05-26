@@ -1,6 +1,6 @@
-[`Português (BR)`](../README.md) | [`English`](README.md)
-
 # An advanced guide to learn English which might benefit you a lot.
+
+[`Português (BR)`](../README.md) | [`English`](README.md)
 
 ## English Proficiency Levels
 
