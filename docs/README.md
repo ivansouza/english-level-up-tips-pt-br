@@ -16,21 +16,21 @@ Um guia avançado para aprender inglês que pode te beneficiar muito.
 
 ## Diferenciais
 
-![Diferenciais](docs/assets/feature.svg)
+![Diferenciais](docs/assets/feature-en.svg)
 
 ## Capítulos
 
-[![understanding](docs/assets/understanding@2x.svg)](docs/threads/part-1/1-understanding.md)
+[![understanding](docs/assets/understanding-en@2x.svg)](docs/threads/part-1/1-understanding.md)
 
-[![vocabulary](docs/assets/vocabulary@2x.svg)](docs/threads/part-1/2-vocabulary.md)
+[![vocabulary](docs/assets/vocabulary-en@2x.svg)](docs/threads/part-1/2-vocabulary.md)
 
-[![listening](docs/assets/listening@2x.svg)](docs/threads/part-1/3-listening.md)
+[![listening](docs/assets/listening-en@2x.svg)](docs/threads/part-1/3-listening.md)
 
-[![reading](docs/assets/reading@2x.svg)](docs/threads/part-1/4-reading.md)
+[![reading](docs/assets/reading-en@2x.svg)](docs/threads/part-1/4-reading.md)
 
-[![speaking](docs/assets/speaking@2x.svg)](docs/threads/part-1/5-speaking.md)
+[![speaking](docs/assets/speaking-en@2x.svg)](docs/threads/part-1/5-speaking.md)
 
-[![writing](docs/assets/writing@2x.svg)](docs/threads/part-1/6-writing.md)
+[![writing](docs/assets/writing-en@2x.svg)](docs/threads/part-1/6-writing.md)
 
 [![ai](docs/assets/ai@2x.svg)](docs/threads/part-1/7-ai.md)
 
@@ -45,7 +45,7 @@ Se você quer transformar a IA em um verdadeiro acelerador do seu aprendizado de
 
 [![word-list](docs/assets/word-list@2x.svg)](docs/threads/word-list/Common.md)
 
-[![Others@2x.png](docs/assets/Others@2x.svg)](docs/threads/part-2/x-misc.md)
+[![Others](docs/assets/Others-en@2x.svg)](docs/threads/part-2/x-misc.md)
 
 [Minha História](docs/threads/part-2/my-story.md)
 
