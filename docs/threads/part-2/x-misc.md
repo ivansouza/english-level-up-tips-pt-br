@@ -65,7 +65,7 @@ Sei que muita gente tem um Kindle ou iPad pegando poeira — ou sendo usado como
 
 Pode até ser divertido, mas será que essa era a intenção original ao comprar esses eletrônicos?
 
-![Interrogação](../../assets/黑人问号.jpg)
+![Interrogação](../../assets/confused.jpg)
 
 ## Minha Experiência Dolorosa de Aprendizado
 

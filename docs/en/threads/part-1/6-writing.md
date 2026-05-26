@@ -12,13 +12,13 @@ Honestly, I once thought I should just drop the writing chapter. I didn’t feel
 
 That changed recently, after I published a piece about a failed startup and got a surprising amount of attention. The replies I received were powerful—supportive, thoughtful, and motivating. So I decided to come back and finish this missing chapter.
 
-![comments](../../../assets/nice-comment.png)
+> *Print de tela de um comentário de leitor agradecendo pelo tutorial de inglês e pelo suporte no V2EX.*
 
 Writing is both a skill and an art. It helps you express thoughts and emotions, share knowledge, and create value. But good writing is not a one-week project.
 
 This chapter isn’t about academic papers. It focuses on everyday writing—articles, posts, and practical communication. Here are a few ingredients that matter.
 
-![writing skills](../../../assets/writing-skills.png)
+> *Print de tela do YouTube mostrando resultados de busca por "improve writing skills", com diversos vídeos sobre técnicas de escrita em inglês.*
 
 ---
 
@@ -63,8 +63,7 @@ Used well, it can help you spot issues. You can ask for suggestions, take what�
 
 > For example, this chapter itself was edited with AI suggestions.
 
-![New Bing](../../../assets/chatgpt.png)
-![AIGC](../../../assets/aigc.png)
+> *Captura de tela do New Bing (ChatGPT) gerando sugestões de reescrita de texto, demonstrando o uso de IA como ferramenta de apoio à escrita.*
 
 ---
 

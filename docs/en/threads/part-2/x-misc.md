@@ -76,7 +76,7 @@ I know a lot of people’s Kindle and iPad are collecting dust… or being used 
 
 That might be funny, but is that really why we bought them?
 
-![confused](../../../assets/黑人问号.jpg)
+![confused](../../../assets/confused.jpg)
 
 ---
 

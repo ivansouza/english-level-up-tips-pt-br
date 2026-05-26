@@ -2,15 +2,13 @@
 
 Source (中文): [单词篇](#/threads/part-1/2-vocabulary.md)
 
-Vocabulary is the foundation of a language. If you try to “skip vocabulary” and jump straight to advanced materials, you’ll usually end up spending (more accurately: wasting) even more time later.
+Vocabulary is the foundation of a language. If you try to "skip vocabulary" and jump straight to advanced materials, you'll usually end up spending (more accurately: wasting) even more time later.
 
-The good news: vocabulary has a very obvious tipping point. Once your vocabulary reaches a certain size, English suddenly feels much easier—because context starts doing a lot of the work for you.
+The good news: vocabulary has a very obvious tipping point. Once your vocabulary reaches a certain size, English suddenly feels much easier-because context starts doing a lot of the work for you.
 
-Here’s a classic distribution chart:
+Here's a classic distribution chart (based on the Oxford English Corpus):
 
-![Vocabulary distribution (OEC)](../../../assets/OCE%20Artboard@2x.png)
-
-> Original data: Oxford English Corpus (OEC). The author recreated the chart in Sketch.
+> *Gráfico de distribuição do vocabulário inglês segundo o Oxford English Corpus (OEC), mostrando que as 10 palavras mais comuns (the, be, to, of, and, a, in, that, have, I) representam cerca de 25% do texto, e as 100 palavras mais comuns cobrem aproximadamente 50%.*
 
 Rough takeaways:
 
@@ -18,9 +16,9 @@ Rough takeaways:
 - ~7,000 words is a big threshold (close to **90%** comprehension is not a fantasy).
 - The ROI of memorizing more and more words **goes down** over time.
 
-So let’s set a small goal: **7,000 words**.
+So let's set a small goal: **7,000 words**.
 
-Break it down: 40 words/day → 175 days (in the “no forgetting at all” fantasy world).
+Break it down: 40 words/day → 175 days (in the "no forgetting at all" fantasy world).
 
 ---
 
@@ -28,23 +26,23 @@ Break it down: 40 words/day → 175 days (in the “no forgetting at all” fant
 
 Before you start expanding vocabulary, it helps to know how you naturally learn.
 
-### If you’re more visual
+### If you're more visual
 
-Visual learners remember words by “seeing” them—often by binding the word to an image or video. Some people can write a word a few times and it sticks.
+Visual learners remember words by "seeing" them-often by binding the word to an image or video. Some people can write a word a few times and it sticks.
 
-Visual memory is powerful, but there’s a trap:
+Visual memory is powerful, but there's a trap:
 
 You might remember the *picture*, not the *word*.
 
-That happens a lot with flashcard apps that show images: when you review the card, the picture feels familiar, so you think you’ve mastered the word. But in real life—without that exact picture—you can’t recall it.
+That happens a lot with flashcard apps that show images: when you review the card, the picture feels familiar, so you think you've mastered the word. But in real life-without that exact picture-you can't recall it.
 
-My suggestion: use *abstract* visualization. Don’t tie “cat” to one specific cat photo; tie it to your own mental “cat concept”.
+My suggestion: use *abstract* visualization. Don't tie "cat" to one specific cat photo; tie it to your own mental "cat concept".
 
 For example, a word app might show you a specific cat:
 
 ![cat.jpg](https://ooo.0o0.ooo/2017/06/01/592f5682b7c4e.jpg)
 
-But your brain’s “cat” could be:
+But your brain's "cat" could be:
 
 ![cat-2.jpeg](https://ooo.0o0.ooo/2017/06/01/592f576499947.jpeg)
 
@@ -64,7 +62,7 @@ Or even a doodle you can draw yourself:
 
 ![cat-sss.jpg](https://ooo.0o0.ooo/2017/06/01/592f5a1aa430f.jpg)
 
-Or… this:
+Or... this:
 
 ![cat-girl.jpg](https://ooo.0o0.ooo/2017/06/01/592f5b1774ed2.jpg)
 
@@ -72,11 +70,11 @@ The point: abstract visualization helps connect the word to the meaning, instead
 
 ---
 
-### If you’re more auditory
+### If you're more auditory
 
 Auditory learners have a natural advantage in language learning. Learning through a lot of listening is closer to how humans learn languages in the first place.
 
-But many auditory learners still use “visual-style” methods, because that’s what school taught them.
+But many auditory learners still use "visual-style" methods, because that's what school taught them.
 
 If you want to lean into auditory learning, you need one thing badly: **pronunciation basics**.
 
@@ -85,7 +83,7 @@ With decent pronunciation, you can:
 - turn what you hear into correct spelling much more often
 - learn a lot from audio content you actually enjoy
 
-So if this sounds like you, don’t skip the chapters on pronunciation and listening.
+So if this sounds like you, don't skip the chapters on pronunciation and listening.
 
 No matter your learning style, do yourself a favor: **listen to the pronunciation in a dictionary** when you learn a word.
 
@@ -93,7 +91,7 @@ No matter your learning style, do yourself a favor: **listen to the pronunciatio
 
 Ronnie has a good video on memorizing words:
 
-- YouTube: https://www.youtube.com/watch?v=JuoqE2lpRUM  
+- YouTube: https://www.youtube.com/watch?v=JuoqE2lpRUM
 - Youku: http://v.youku.com/v_show/id_XMjgyMDQyMDgzNg==.html
 
 ---
@@ -111,7 +109,7 @@ Pros:
 
 Cons:
 
-Because the ROI drops and you often don’t get fast feedback, people quit around:
+Because the ROI drops and you often don't get fast feedback, people quit around:
 
 - 800 words
 - 1,000 words
@@ -126,26 +124,26 @@ Example:
 - 20 words/day → ~600 words/month; if you retain 80% long-term → 480 words
 - 100 words/day → ~3,000 words/month; even if you retain 30% → 900 words
 
-This tends to work well in the **1,000–7,000** vocabulary stage.
+This tends to work well in the **1,000-7,000** vocabulary stage.
 
-> Once you’re over ~7,000 words, you should be able to learn many new words through word formation and context. This guide covers that later. Pick what fits your habits.
+> Once you're over ~7,000 words, you should be able to learn many new words through word formation and context. This guide covers that later. Pick what fits your habits.
 
 ---
 
 ## Practical Tips That Actually Help
 
 - repeat, repeat, repeat (nothing fancy, just reps)
-- sticky notes (put words where you’ll see them)
+- sticky notes (put words where you'll see them)
 - visual marks (draw a tiny doodle)
 - collocations + making your own sentences (context helps memory and usage)
-- read out loud (yes, like those “Crazy English” days)
-- make some words personally meaningful (ML, programming, your girlfriend/boyfriend… whatever matters to you)
+- read out loud (yes, like those "Crazy English" days)
+- make some words personally meaningful (ML, programming, your girlfriend/boyfriend... whatever matters to you)
 
 ---
 
 ## The Forgetting Curve (Ebbinghaus)
 
-There’s short-term memory and long-term memory. “Knowing a word” usually means it has moved into long-term memory.
+There's short-term memory and long-term memory. "Knowing a word" usually means it has moved into long-term memory.
 
 The forgetting curve describes how we forget over time. It was first proposed by psychologist Hermann Ebbinghaus through experiments with meaningless letter combinations.
 
@@ -158,7 +156,7 @@ The basic idea: forgetting is fast at the beginning and slows down later.
 A common review schedule looks like this:
 
 - 5 minutes later
-- 20–30 minutes later
+- 20-30 minutes later
 - 12 hours later
 - 1 day later
 - 2 days later
@@ -166,7 +164,7 @@ A common review schedule looks like this:
 - 7 days later
 - 15 days later
 
-Try this for two weeks and you’ll probably feel the difference.
+Try this for two weeks and you'll probably feel the difference.
 
 ### Think of a word as a simple key-value pair (at the beginning)
 
@@ -180,7 +178,7 @@ You can start with a simple cycle:
 
 > Those are short-term-memory cycles. Adjust the exact timings to your life.
 
-Then hit the “real” checkpoints:
+Then hit the "real" checkpoints:
 
 - 1 day, 2 days, 4 days, 7 days, 15 days
 
@@ -188,7 +186,7 @@ Then hit the “real” checkpoints:
 
 ## A Real Example (Old-school but Effective)
 
-In high school, our textbooks were delivered in a batch of 10. I spent about three class periods scanning all vocabulary lists, and copied down everything I couldn’t remember.
+In high school, our textbooks were delivered in a batch of 10. I spent about three class periods scanning all vocabulary lists, and copied down everything I couldn't remember.
 
 That gave me a personal word notebook.
 
@@ -199,13 +197,13 @@ When I reviewed:
 
 ![word notebook](https://ooo.0o0.ooo/2017/06/05/593516103b8a9.jpg)
 
-I’ve kept this habit since Dec 2010. I don’t use paper anymore—I sync it in a dictionary app and review during lunch breaks or after workouts.
+I've kept this habit since Dec 2010. I don't use paper anymore-I sync it in a dictionary app and review during lunch breaks or after workouts.
 
-When your word list grows to 500+ words, you either review more aggressively, or… keep multiple dictionaries and flip them constantly.
+When your word list grows to 500+ words, you either review more aggressively, or... keep multiple dictionaries and flip them constantly.
 
 ![dictionary](../../../assets/dict.JPG)
 
-> Big paper dictionaries are a pain to carry. Use any dictionary app that syncs across devices.  
+> Big paper dictionaries are a pain to carry. Use any dictionary app that syncs across devices.
 > The two dictionaries in the photo served me for years and are already falling apart.
 
 ---
@@ -214,64 +212,64 @@ When your word list grows to 500+ words, you either review more aggressively, or
 
 The purpose is simple: **collect unknown words in one place so you can review them anytime**.
 
-Wherever you meet a new word, save it into a word list that syncs across devices. Otherwise, where will you find those “new words” later?
+Wherever you meet a new word, save it into a word list that syncs across devices. Otherwise, where will you find those "new words" later?
 
-I won’t advertise any specific dictionary app. Any decent cross-platform one works.
+I won't advertise any specific dictionary app. Any decent cross-platform one works.
 
-![word list app](../../../assets/word-list-app.png)
+> *Screenshot de um aplicativo de lista de vocabulário mostrando palavras salvas para revisão, com interface em chinês.*
 
-Some words… you can review for seven years and still hesitate. That’s normal.
+Some words... you can review for seven years and still hesitate. That's normal.
 
 ---
 
-## Treat Words Like “Objects” (Optional)
+## Treat Words Like "Objects" (Optional)
 
-> If “OOP” means nothing to you, feel free to skip this section.
+> If "OOP" means nothing to you, feel free to skip this section.
 
-Many words are built from “base words” using predictable rules. That’s a bit like inheritance/polymorphism in OOP.
+Many words are built from "base words" using predictable rules. That's a bit like inheritance/polymorphism in OOP.
 
 The idea: learn the *rules of expansion*, instead of memorizing every derived form as a brand-new word.
 
-> “Learning words” is not the same thing as “brute-force memorization”. You can do better than that.
+> "Learning words" is not the same thing as "brute-force memorization". You can do better than that.
 
 ---
 
 ## Anki
 
-[Anki](https://apps.ankiweb.net/) is a multi-platform flashcard app. It’s highly customizable and makes spaced repetition easier.
+[Anki](https://apps.ankiweb.net/) is a multi-platform flashcard app. It's highly customizable and makes spaced repetition easier.
 
-To help with high-frequency vocabulary, this repo shares a “Macmillan 7,000” Anki deck (thanks to Simon for improvements), with:
+To help with high-frequency vocabulary, this repo shares a "Macmillan 7,000" Anki deck (thanks to Simon for improvements), with:
 
 - phonetic symbols
 - example sentences
 - pictures
 - sentence translations
 
-Link: https://pan.baidu.com/s/1i5OLIIT  
+Link: https://pan.baidu.com/s/1i5OLIIT
 Password: jm4k
 
 Because the deck is old, some mobile platforms have issues (see #76): https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76
 
 Updates include:
 
-- adjusted card styles for mobile (font size, layout, fields…)
+- adjusted card styles for mobile (font size, layout, fields...)
 - download media locally via the [Localize Media](https://ankiweb.net/shared/info/1293255374) plugin
 
 ---
 
 ## Using AI to Help (2025 Note)
 
-The core principle still holds in 2025: **learn words in context**, not as “word = Chinese meaning”.
+The core principle still holds in 2025: **learn words in context**, not as "word = Chinese meaning".
 
-What’s different is that now you have conversational AI (like ChatGPT) that can generate context and practice fast. But memory still can’t be outsourced—you have to do the reps.
+What's different is that now you have conversational AI (like ChatGPT) that can generate context and practice fast. But memory still can't be outsourced-you have to do the reps.
 
 Ways to blend AI into your workflow:
 
-- **Natural examples and short passages**: give AI today’s 10–20 words and ask for a short story/dialogue using them, plus 3–5 comprehension questions.
+- **Natural examples and short passages**: give AI today's 10-20 words and ask for a short story/dialogue using them, plus 3-5 comprehension questions.
 - **Synonyms, collocations, and confusing pairs**: ask for common collocations, synonyms, near-misses, and then request cloze questions or error-correction tasks with explanations.
 - **Mini quizzes + review**: send the words you keep forgetting and ask for a 10-minute quiz (sentence making, collocation choice, error correction). After you answer, ask it to summarize your recurring mistakes.
 
-If you want to use AI across listening/speaking/reading/writing, see the “AI” chapter:
+If you want to use AI across listening/speaking/reading/writing, see the "AI" chapter:
 
 - English (WIP): [AI](7-ai.md)
 - Chinese: [利用 AI 学习](#/threads/part-1/7-ai.md)
@@ -284,21 +282,21 @@ If you want to use AI across listening/speaking/reading/writing, see the “AI�
 - [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
 - [![Merriam-Webster's Vocabulary Builder](https://img3.doubanio.com/lpic/s4339900.jpg)](https://book.douban.com/subject/4759840/)
 
-“Merriam-Webster’s Vocabulary Builder” is often recommended for people who already have a solid base (around 7,000 words), especially for TOEFL/GRE prep.
+"Merriam-Webster's Vocabulary Builder" is often recommended for people who already have a solid base (around 7,000 words), especially for TOEFL/GRE prep.
 
-People think it’s just about roots and affixes, but the real value is the way it teaches words through context:
+People think it's just about roots and affixes, but the real value is the way it teaches words through context:
 
 - English definition
 - example sentence
-- the author’s personal explanation
+- the author's personal explanation
 
-It also includes a lot of practice questions—not just “what does it mean”, but “how is it used”, and “how is it different from similar-looking words”.
+It also includes a lot of practice questions-not just "what does it mean", but "how is it used", and "how is it different from similar-looking words".
 
-If you already have a decent vocabulary base, don’t miss it.
+If you already have a decent vocabulary base, don't miss it.
 
-> Most of the time, memorizing words doesn’t need to feel intense. Skim them, meet them again, meet them again… “new words” become familiar words.
+> Most of the time, memorizing words doesn't need to feel intense. Skim them, meet them again, meet them again... "new words" become familiar words.
 
 ---
 
-Prev: [Understanding](1-understanding.md)  
+Prev: [Understanding](1-understanding.md)
 Next: [Listening](3-listening.md)
