@@ -1,11 +1,5 @@
 [`Português (BR)`](docs/README.md) | [`English`](docs/en/README.md)
 
-Dedicado à minha amada `W.`
-
-> Todos nós vivemos no nosso próprio passado. As pessoas levam um minuto para conhecer alguém, uma hora para gostar de alguém, um dia para amar alguém — e, no final, uma vida inteira para esquecer alguém.
-
-![](./docs/assets/my-love.png)
-
 # Sobre o Projeto
 
 Um guia avançado para aprender inglês que pode te beneficiar muito.
