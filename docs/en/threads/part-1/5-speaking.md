@@ -2,15 +2,15 @@
 
 Source (中文): [口语篇](#/threads/part-1/5-speaking.md)
 
-Speaking is where everything comes together. And yes—pronunciation matters, but you don’t need to obsess. You just need a solid base and a lot of reps.
+Speaking is where everything comes together. And yes-pronunciation matters, but you don't need to obsess. You just need a solid base and a lot of reps.
 
 ---
 
 ## IPA / Phonics
 
-If you want to speak better, start with pronunciation. And to learn pronunciation, you’ll eventually meet IPA (phonetic symbols) or phonics.
+If you want to speak better, start with pronunciation. And to learn pronunciation, you'll eventually meet IPA (phonetic symbols) or phonics.
 
-There’s no shortcut here. The good news is: the content is limited. Learn the sounds, practice out loud, and come back to them repeatedly.
+There's no shortcut here. The good news is: the content is limited. Learn the sounds, practice out loud, and come back to them repeatedly.
 
 Recommended playlist:
 
@@ -18,21 +18,21 @@ Recommended playlist:
 
 ### Vowels (quick reference)
 
-- cop /ɑ/ — like “ah”
-- the /ə/ — “uh” (unstressed)
-- cup /ʌ/ — like “uh” (stressed)
-- boot /u/ — “oo”
-- book /ʊ/ — shorter “oo”
-- beat /i/ — “ee”
-- bit /ɪ/ — “ih”
-- make /eɪ/ — “ay”
-- head /e/ — “eh”
-- had /æ/ — “a” as in “cat”
-- law /ɔ/ — “aw”
-- now /aʊ/ — “ow”
-- bite /aɪ/ — “eye”
-- boy /ɔɪ/ — “oy”
-- go /oʊ/ — “oh”
+- cop /ɑ/ - like "ah"
+- the /ə/ - "uh" (unstressed)
+- cup /ʌ/ - like "uh" (stressed)
+- boot /u/ - "oo"
+- book /ʊ/ - shorter "oo"
+- beat /i/ - "ee"
+- bit /ɪ/ - "ih"
+- make /eɪ/ - "ay"
+- head /e/ - "eh"
+- had /æ/ - "a" as in "cat"
+- law /ɔ/ - "aw"
+- now /aʊ/ - "ow"
+- bite /aɪ/ - "eye"
+- boy /ɔɪ/ - "oy"
+- go /oʊ/ - "oh"
 
 ### Consonants (quick reference)
 
@@ -49,7 +49,7 @@ Recommended playlist:
 - mom /m/
 - sing /ŋ/
 - roads /dz/
-- let’s /ts/
+- let's /ts/
 - boss /s/
 - rose /z/ (voiced /s/)
 - thanks /θ/
@@ -82,47 +82,47 @@ Using *New Concept English* Book 3/4 as an example:
 
 1. listen carefully first
 2. read out loud
-3. at the beginning, don’t worry about linking or pausing—just focus on clear, accurate sounds
-4. once you can read smoothly, start mimicking the speaker’s rhythm and intonation
+3. at the beginning, don't worry about linking or pausing-just focus on clear, accurate sounds
+4. once you can read smoothly, start mimicking the speaker's rhythm and intonation
 
 ---
 
-## Real Conversations: The “Yeah… yeah… yeah” Phase
+## Real Conversations: The "Yeah... yeah... yeah" Phase
 
-When you first try to communicate in pure English, it’s common to feel this awkward gap:
+When you first try to communicate in pure English, it's common to feel this awkward gap:
 
 In your head you want to say:
 
-“I can’t believe we think the same way.”
+"I can't believe we think the same way."
 
 But what comes out is just:
 
-“Yeah.”
+"Yeah."
 
 And then:
 
-“Yeah… yeah… yeah…”
+"Yeah... yeah... yeah..."
 
 This is normal.
 
 Many people speak like this at first:
 
-1) think in Chinese  
-2) translate into English in their head  
-3) search for the right word  
+1) think in Chinese
+2) translate into English in their head
+3) search for the right word
 4) get stuck and freeze
 
-After enough listening and speaking practice, your brain starts building “reflex phrases”. In certain situations you’ll respond instantly without translating.
+After enough listening and speaking practice, your brain starts building "reflex phrases". In certain situations you'll respond instantly without translating.
 
-(The simplest proof is that people can blurt out things like “f**k” and “sh*t” without any effort.)
+(The simplest proof is that people can blurt out things like "f**k" and "sh*t" without any effort.)
 
 ---
 
 ## Sing English Songs
 
-If you’re already in love with melodies, why not sing?
+If you're already in love with melodies, why not sing?
 
-Lately I’ve been into Troye Sivan. Here’s a simple way to practice:
+Lately I've been into Troye Sivan. Here's a simple way to practice:
 
 - organize the lyrics
 - write down unknown words and learn them first
@@ -136,7 +136,7 @@ Clear motivation + strong goal + real interest = surprisingly good results.
 
 ## Prepare Common Questions for Yourself
 
-To build “English intuition”, prepare a set of common topics and practice them repeatedly until you can speak smoothly and reorder sentences freely:
+To build "English intuition", prepare a set of common topics and practice them repeatedly until you can speak smoothly and reorder sentences freely:
 
 - introduce yourself
 - introduce your hometown
@@ -161,9 +161,35 @@ Less is more. Pick a few and practice a lot. If you have great channels to recom
 
 ## Be Brave: Talk to Strangers
 
-- [Why we’re afraid to talk to strangers](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
+One Saturday I went to lunch at the mall. The restaurant was packed, and I ended up sharing a table with three young girls.
+
+My noodles arrived steaming hot. Suddenly one of them said, "Someone ordered noodles," and they all stared at my bowl. I felt a little embarrassed.
+
+Their chatter took me back years — to a girl who once said the same thing, and to that restaurant I later visited alone so many times.
+
+"The man is embarrassed," one laughed, and they all joined in.
+
+Their laughter pulled me back. I gathered my courage and said, "Actually, noodles are really good."
+
+Saying that felt surprisingly good. Standing up for something I like made me happy.
+
+They didn't believe me, so I suggested they try it. We chatted — they were 6th graders, first time there. They complained about the food and recommended a dessert place upstairs.
+
+They asked if I worked or was unemployed. I said I was a programmer. One thought coding was hard and caused hair loss — her uncle was bald before 30. The others had no idea what coding was. I said it's like writing an essay.
+
+When they were leaving, I noticed they barely ate. I told them they should eat more. They laughed and said they ordered 19 yuan worth but only ate 2 yuan worth.
+
+I asked if they'd come back next Saturday. They said no. I said, "If you do, I'll grab an empty bowl and sit with you." They burst out laughing, waved goodbye.
+
+At that moment, I felt like I'd done something amazing. I'm an introvert!
+
+As I savored that small victory, the girl at the next table — who seemed quite aloof — turned to me and said, "Pass me the vinegar!" in a tone that was both commanding and familiar.
+
+I was surprised. We'd never met and she was ordering me around! As I wondered whether I was afraid to talk to strangers, my hand was already reaching for the vinegar. I looked at her.
+
+She was gorgeous.
 
 ---
 
-Prev: [Reading](#/docs/en/threads/part-1/4-reading)  
+Prev: [Reading](#/docs/en/threads/part-1/4-reading)
 Next: [Writing](#/docs/en/threads/part-1/6-writing)

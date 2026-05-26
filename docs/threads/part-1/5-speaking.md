@@ -118,4 +118,29 @@ Para desenvolver seu reflexo em inglês, recomendo preparar algumas perguntas co
 
 ## Converse com Estranhos sem Medo
 
-[Por que temos medo de conversar com estranhos](https://github.com/byoungd/me/blob/main/blog/3.why-we-are-afraid-to-communicate-with-strangers.md)
+Sábado ao meio-dia fui almoçar no shopping como de costume. O restaurante estava cheio e acabei dividindo mesa com três meninas.
+
+Meu yakisoba chegou fumegante. De repente, uma delas comentou "alguém pediu yakisoba" e as três olharam pro meu prato. Senti um leve desconforto.\p
+Naquele momento, minha mente voltou anos atrás, lembrando de uma garota que me disse "alguém pede yakisoba no hot pot?" — e daquele restaurante que depois visitei sozinho tantas vezes.
+
+"O moço ficou sem graça", disse uma delas, e todas riram.
+
+Fui puxado de volta pelas risadas. E, corajosamente, falei: "Na verdade, yakisoba é muito bom."
+
+Ao dizer isso, senti uma surpresa interna. Defender algo de que gosto me fez bem.
+
+Elas não acreditaram que yakisoba fosse tão bom, então sugeri que experimentassem. Conversamos um pouco — eram alunas da 6ª série, primeira vez ali. Reclamaram da comida e recomendaram uma sobremesa do 4º andar.
+
+Perguntaram se eu trabalhava ou era desempregado. Disse que era programador. Uma delas achou que programar era difícil e fazia cair cabelo — o tio dela era careca antes dos 30. As outras não sabiam o que era programar. Expliquei que é como escrever uma redação.
+
+Quando estavam saindo, notei que comeram muito pouco. Disse que deveriam comer mais. Elas riram e disseram que pediram 19 reais mas só comeram 2 reais.
+
+Perguntei se voltariam no sábado seguinte. Disseram que não. Falei: "Se voltarem, posso pegar uma mesa vazia e sentar com vocês." Elas caíram na risada, se despediram e acenaram.
+
+Naquele momento, senti que tinha feito algo incrível. Sou uma pessoa introvertida!
+
+Enquanto saboreava essa pequena vitória, a garota da mesa ao lado, que parecia bem na dela, virou e disse: "Me passa o vinagre!" — num tom entre ordem e intimidade.
+
+Fiquei surpreso. Era a primeira vez que nos víamos e ela já estava me mandando! Enquanto pensava se tinha medo de falar com estranhos, minha mão já estendia o vinagre. Olhei para ela.
+
+Era linda!
