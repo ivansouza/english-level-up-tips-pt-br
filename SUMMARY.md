@@ -12,7 +12,3 @@
 
 * [8. Miscelânea](docs/threads/part-2/x-misc.md)
 
-### Parte IV
-
-* [Minha História](docs/threads/part-2/my-story.md)
-* [Semana 1](docs/threads/part-4/week-1.md)
