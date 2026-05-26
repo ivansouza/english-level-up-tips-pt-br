@@ -80,13 +80,6 @@ These lists are already in English, so the English sidebar links directly to the
 - [Swift](#/threads/word-list/Swift.md)
 - [Rust](#/threads/word-list/Rust.md)
 - [Vibe Coding (Agent)](#/threads/word-list/VibeCoding.md)
-
-## Online Reading
-
-- GitHub Pages: https://byoungd.github.io/English-level-up-tips/#/
-- Chinese (Zhihu): https://zhuanlan.zhihu.com/p/444211376
-- GitBook: https://babyyoung.gitbook.io/english-level-up-tips/
-
 ## Personal Story
 
 If you want the personal background behind this guide, read [My Story](threads/part-4/my-story.md).

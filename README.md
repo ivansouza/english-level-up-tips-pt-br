@@ -52,19 +52,6 @@ Se você quer transformar a IA em um verdadeiro acelerador do seu aprendizado de
 ## Agradecimentos
 
 - Obrigado a todos que se importam e contribuíram para este guia ❤️
-
-## Extra
-
-Quer saber sobre minha vida amorosa? Leia [Minhas Ex-namoradas Fora do Comum](https://github.com/byoungd/how-to-find-love)
-
-Se quiser ler sobre o período após o fracasso do meu negócio, confira: [Minha História](docs/threads/part-2/my-story.md)
-
-## Leitura Online
-
-- Zhihu [Guia de Estudos de Inglês Fora do Comum](https://zhuanlan.zhihu.com/p/444211376)
-- GitHub Pages [English-level-up-tips](https://byoungd.github.io/English-level-up-tips/#/)
-- GitBook [English-level-up-tips](https://babyyoung.gitbook.io/english-level-up-tips/)
-
 ## Direitos de Reprodução
 
 Ao reproduzir este guia, por favor, mencione o autor e o link do GitHub. Obrigado!
